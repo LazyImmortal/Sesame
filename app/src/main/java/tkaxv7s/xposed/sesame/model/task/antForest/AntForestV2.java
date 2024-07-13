@@ -268,7 +268,9 @@ public class AntForestV2 extends ModelTask {
 
             // 兑换 限时保护罩
             if (exchangeEnergyShield.getValue()) {
-                exchangePropShop(findPropShop("CR20230517000497", "CR20230516000370"), exchangeEnergyShieldCount.getValue());
+                while (exchangePropShop(findPropShop("CR20230517000497", "CR20230516000370"), exchangeEnergyShieldCount.getValue())) {
+                    Thread.sleep(1000);
+                }
             }
 
             // 使用 能量保护罩
