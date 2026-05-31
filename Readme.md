@@ -1,11 +1,13 @@
-![Sesame](https://socialify.git.ci/LazyImmortal/Sesame/image?custom_description=%E8%8A%9D%E9%BA%BB%E6%B4%BE&custom_language=Kotlin&description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Auto)
+![Sesame](https://socialify.git.ci/LazyImmortal/Sesame/image?custom_description=芝麻派&custom_language=Kotlin&description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Auto)
+
+# 本项目已停止维护，请迁移到全新架构的 [Seedum](https://github.com/LazyImmortal/Seedum)
 
 # Sesame
 
 ![Android](https://img.shields.io/badge/Android-9%2B-3DDC84?logo=android&logoColor=white)
 [![Latest Release](https://img.shields.io/github/release/LazyImmortal/Sesame.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/LazyImmortal/Sesame/total.svg)](../../releases)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/Sesame_Channels)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/SeedumChannel)
 
 ## 说明
 
